@@ -1321,3 +1321,6 @@
 [submodule "themes/presenterm"]
 	path = themes/presenterm
 	url = https://github.com/dracula/presenterm.git
+[submodule "themes/postman"]
+	path = themes/postman
+	url = https://github.com/dracula/postman.git
