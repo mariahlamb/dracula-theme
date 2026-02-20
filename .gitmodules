@@ -1318,3 +1318,6 @@
 [submodule "themes/rackula"]
 	path = themes/rackula
 	url = https://github.com/dracula/rackula.git
+[submodule "themes/presenterm"]
+	path = themes/presenterm
+	url = https://github.com/dracula/presenterm.git
