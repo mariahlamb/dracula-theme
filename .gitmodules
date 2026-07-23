@@ -1402,3 +1402,6 @@
 [submodule "themes/mremoteng"]
 	path = themes/mremoteng
 	url = https://github.com/dracula/mremoteng.git
+[submodule "themes/ldoc"]
+	path = themes/ldoc
+	url = https://github.com/dracula/ldoc.git
