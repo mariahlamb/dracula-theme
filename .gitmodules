@@ -1390,3 +1390,6 @@
 [submodule "themes/focuswriter"]
 	path = themes/focuswriter
 	url = https://github.com/dracula/focuswriter.git
+[submodule "themes/peertube"]
+	path = themes/peertube
+	url = https://github.com/dracula/peertube.git
