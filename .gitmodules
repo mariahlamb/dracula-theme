@@ -1393,3 +1393,6 @@
 [submodule "themes/peertube"]
 	path = themes/peertube
 	url = https://github.com/dracula/peertube.git
+[submodule "themes/neiki-editor"]
+	path = themes/neiki-editor
+	url = https://github.com/dracula/neiki-editor.git
