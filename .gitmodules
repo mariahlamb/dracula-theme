@@ -1399,3 +1399,6 @@
 [submodule "themes/telegram-macos"]
 	path = themes/telegram-macos
 	url = https://github.com/dracula/telegram-macos.git
+[submodule "themes/mremoteng"]
+	path = themes/mremoteng
+	url = https://github.com/dracula/mremoteng.git
